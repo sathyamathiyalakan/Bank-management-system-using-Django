@@ -60,10 +60,6 @@ mkvirtualenv -p python3 {{project_name}}   # create and activate environment
 workon {{project_name}}   # reactivate existing environment
 ```
 
-Clone GitHub Project,
-```bash
-git@github.com:saadmk11/banking-system.git
-
 cd banking-system
 ```
 
